@@ -70,8 +70,12 @@ height:50%; /* Full viewport height */
 }
 
 h5{
-    color:black;
+    color:rgb(255, 248, 248);
     font-size:30px;
+}
+
+h2{
+    color:black;
 }
 p3{
     color:#e45a5a;
